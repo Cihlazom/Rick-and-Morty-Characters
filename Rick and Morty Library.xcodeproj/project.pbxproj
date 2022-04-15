@@ -67,8 +67,6 @@
 				38A4DB342809030000505EAA /* Views */,
 				38A4DB3128088CB400505EAA /* Models */,
 				38A4DB2C28088BD000505EAA /* Resources */,
-				38A4DB1C2808856A00505EAA /* Assets.xcassets */,
-				38A4DB1E2808856A00505EAA /* LaunchScreen.storyboard */,
 				38A4DB212808856A00505EAA /* Info.plist */,
 			);
 			path = "Rick and Morty Library";
@@ -104,6 +102,8 @@
 		38A4DB342809030000505EAA /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				38A4DB1C2808856A00505EAA /* Assets.xcassets */,
+				38A4DB1E2808856A00505EAA /* LaunchScreen.storyboard */,
 				38A4DB292808895500505EAA /* Cells */,
 				38A4DB172808856800505EAA /* LibraryOfCharactersViewController.swift */,
 				38A4DB272808885000505EAA /* CharacterViewController.swift */,
